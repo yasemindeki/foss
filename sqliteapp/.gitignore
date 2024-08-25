@@ -1,0 +1,35 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Fortran module files
+*.mod
+*.smod
+
+# Executables
+*.exe
+*.out
+*.app
+*.msi
+*.zip
+*.tar.gz
+*.rar
+
+*.chm
+*._*.cpp
+
+
+*pro.user*
+build-sqliteapp-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/debug
+build-sqliteapp-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/release
+build-sqliteapp-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/makefile*
+build-sqliteapp-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/.*
