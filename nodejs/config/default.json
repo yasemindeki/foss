@@ -1,0 +1,15 @@
+{
+	"security": {
+		"iv": ""
+	},
+	"express": {
+		"port": 3000
+	},
+	"pg": {
+		"user": "",
+		"host": "localhost",
+		"database": "",
+		"password": "",
+		"port": 5432
+	}
+}
