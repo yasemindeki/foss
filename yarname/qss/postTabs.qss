@@ -1,0 +1,32 @@
+QTabWidget {
+	background-color: rgb(255, 255, 255);
+}
+QTabWidget::pane {
+	border: none;
+	border-top: 1px solid rgb(234, 238, 240);
+}
+QTabWidget::tab-bar {
+	alignment: center;
+}
+QTabBar::tab {
+	border: none;
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	margin-top: 8px;
+	margin-bottom: 7px;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+QTabBar {
+	height: 49px;
+	border: none;
+	font: 8pt 'Ubuntu';
+	color: rgb(53, 70, 98);
+}
+QTabBar::tab:hover, QTabBar::tab:selected {
+	background-color: rgb(249, 250, 251);
+	border: 1px solid rgb(234, 238, 240);
+	border-radius: 4px;
+}
